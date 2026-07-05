@@ -55,11 +55,6 @@ Project ini berisi komponen utama berikut:
 3. Jalankan project melalui tombol **Play** di Unity Editor.
 4. Jika ingin build ke Android, atur platform build ke Android dan pastikan konfigurasi Vuforia atau package lain sudah sesuai.
 
-## Catatan Untuk Push ke GitHub
-
-- Pastikan hanya commit folder `Assets`, `Packages`, dan `ProjectSettings`.
-- Jangan ikut commit folder hasil generate Unity seperti `Library` atau `Temp`.
-- Jika ada file package lokal seperti `.tgz` di dalam `Packages`, file tersebut perlu ikut disimpan karena dipakai oleh `manifest.json`.
 
 ## Lisensi
 
