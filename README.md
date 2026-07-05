@@ -3,9 +3,11 @@
 Project ini adalah project Unity 6 untuk aplikasi/game 3D bertema **Bird Lands**. Struktur project menunjukkan adanya beberapa scene utama, menu awal, splash screen, serta scene kategori seperti Herbivora, Karnivora, dan Omnivora. Project ini juga menggunakan beberapa paket Unity tambahan seperti **Vuforia**, **2D Feature**, **Timeline**, **Visual Scripting**, **LeanTouch**, dan **Adaptive Performance**.
 
 [![Download APK Terbaru](https://img.shields.io/badge/Download-APK%20Terbaru-brightgreen?style=for-the-badge)](BUILD_/APK/Bird_Lands_v1.3.apk)
+<p align="right">
 <a href="https://drive.google.com/drive/folders/1stU9DpmN6C-6XVHgQEvEWIGHkEf_tAiX?usp=sharing" target="_blank" rel="noopener noreferrer">
 	<img src="https://img.shields.io/badge/Download-Image%20Target-blue?style=for-the-badge" alt="Download Image Target" />
 </a>
+</p>
 
 Atau kunjungi halaman [Releases](https://github.com/AnyX0/birdsland_project/releases) untuk versi lainnya.
 
