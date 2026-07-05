@@ -6,6 +6,15 @@ Logs/
 Build/
 Builds/
 UserSettings/
+BUILD_/
+QCAR/
+
+# Unity export and upgrade logs
+UpgradeLog*.htm
+Project_Bird_Lands*.zip
+
+# Project-level config that does not need to be committed
+.vsconfig
 
 # Visual Studio / Rider
 .vs/
