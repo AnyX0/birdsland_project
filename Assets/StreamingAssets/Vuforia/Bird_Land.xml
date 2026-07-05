@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Kutilang" size="1.000000 1.577206" />
+    <ImageTarget name="Walet" size="1.000000 1.577206" />
+    <ImageTarget name="Pelatuk" size="1.000000 1.577206" />
+    <ImageTarget name="Kacer" size="1.000000 1.577206" />
+    <ImageTarget name="Burung_Hantu" size="1.000000 1.577206" />
+    <ImageTarget name="Kasuari" size="1.000000 1.577206" />
+    <ImageTarget name="Gagak" size="1.000000 1.577206" />
+    <ImageTarget name="Elang_Bondol" size="1.000000 1.576923" />
+    <ImageTarget name="Merpati_Mahkota" size="1.000000 1.578298" />
+    <ImageTarget name="Merak_Hijau" size="1.000000 1.578298" />
+    <ImageTarget name="Maleo" size="1.000000 1.578298" />
+    <ImageTarget name="Kakatua_Putih" size="1.000000 1.578298" />
+    <ImageTarget name="Jalak_Bali" size="1.000000 1.578298" />
+    <ImageTarget name="Gelatik_Jawa" size="1.000000 1.578298" />
+    <ImageTarget name="Elang_Jawa" size="1.000000 1.578298" />
+  </Tracking>
+</QCARConfig>
