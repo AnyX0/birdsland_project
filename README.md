@@ -58,4 +58,4 @@ Project ini berisi komponen utama berikut:
 
 ## Lisensi
 
-Jika project ini akan dipublikasikan, tambahkan lisensi sesuai kebutuhan sebelum repository dibagikan secara umum.
+Project ini menggunakan lisensi [MIT](LICENSE).
