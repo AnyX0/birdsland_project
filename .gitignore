@@ -6,8 +6,13 @@ Logs/
 Build/
 Builds/
 UserSettings/
-BUILD_/
 QCAR/
+
+# Release builds
+BUILD_/*
+!BUILD_/APK/
+BUILD_/APK/*
+!BUILD_/APK/*.apk
 
 # Unity export and upgrade logs
 UpgradeLog*.htm
