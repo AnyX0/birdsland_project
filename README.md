@@ -7,6 +7,8 @@ Project ini adalah project Unity 6 untuk aplikasi/game 3D bertema **Bird Lands**
 	<img src="https://img.shields.io/badge/Download-Image%20Target-blue?style=for-the-badge" alt="Download Image Target" />
 </a>
 
+- Download APK terbaru: [Bird_Lands_v1.3.apk](BUILD_/APK/Bird_Lands_v1.3.apk)
+
 ## Versi Unity
 
 - **Unity Editor**: 6000.0.47f1
