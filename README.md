@@ -13,6 +13,8 @@ Project ini adalah project Unity 6 untuk aplikasi/game 3D bertema **Bird Lands**
 
 Versi terbaru saat ini adalah **Bird_Lands_v1.3.apk**.
 
+Jika kamu ingin mengubah isi release sebelum dipublikasikan, lihat [RELEASE_NOTES.md](RELEASE_NOTES.md).
+
 ## Versi Unity
 
 - **Unity Editor**: 6000.0.47f1
