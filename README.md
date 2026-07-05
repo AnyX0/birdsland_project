@@ -17,7 +17,6 @@ Untuk project Unity, yang perlu di-push hanya folder berikut:
 - `Packages`
 - `ProjectSettings`
 
-Folder lain seperti `Library`, `Temp`, `Obj`, `Logs`, dan file hasil build tidak perlu di-push karena dapat dibuat ulang oleh Unity.
 
 ## Deskripsi Project
 
