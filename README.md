@@ -48,4 +48,4 @@ Project ini berisi komponen utama berikut:
 
 ## Lisensi
 
-Project ini menggunakan lisensi [MIT](LICENSE) dan Boleh dimodifikasi.
+Project ini menggunakan lisensi [MIT](LICENSE) dan boleh dimodifikasi.
