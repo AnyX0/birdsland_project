@@ -5,12 +5,12 @@ Project ini adalah project Unity 6 untuk aplikasi/game 3D bertema **Bird Lands**
 
 
 <p align="justify">
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="Download APK Terbaru" />
+  <a href="https://github.com/AnyX0/birdsland_project/releases/latest">
+    <img src="https://img.shields.io/badge/Download-APK%20Terbaru-brightgreen?style=for-the-badge" alt="Download APK Terbaru" />
   </a>
   <span style="float: right;">
-    <a href="https://google.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://shields.io" alt="Download Image Target" />
+    <a href="https://drive.google.com/drive/folders/1stU9DpmN6C-6XVHgQEvEWIGHkEf_tAiX?usp=sharing" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Download-Image%20Target-blue?style=for-the-badge" alt="Download Image Target" />
     </a>
   </span>
 </p>
