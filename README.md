@@ -20,6 +20,12 @@ Atau kunjungi halaman [Releases](https://github.com/AnyX0/birdsland_project/rele
 ## Deskripsi Project
 
 Project ini berisi komponen utama berikut:
+- **Sistem Augmented Reality (AR)**: Menggunakan **Vuforia Engine** untuk melacak *Image Target* dan memunculkan model 3D satwa burung secara *real-time* dan stabil di dunia nyata.
+- **Interaksi 3D Responsif (LeanTouch)**: Pengguna memiliki kendali penuh untuk berinteraksi dengan objek 3D melalui gestur layar sentuh, seperti memutar (rotasi) dan mengubah ukuran (skala) model burung.
+- **Navigasi Kategori Edukatif**: Pengelompokan spesies yang terstruktur dan dibagi ke dalam *scene* khusus berdasarkan jenis makanannya: **Karnivora**, **Herbivora**, dan **Omnivora**, guna mempermudah proses pembelajaran.
+- **Ensiklopedia Digital & Audio**: Setiap objek 3D dilengkapi dengan panel *pop-up* informasi yang memuat nama ilmiah, deskripsi spesies, status konservasi, serta fitur pemutar suara (audio) asli dari burung tersebut.
+- **Antarmuka Pengguna (UI) Lengkap**: Menyediakan alur aplikasi yang utuh, mulai dari *Splash Screen*, *Main Menu*, *Instruction*, hingga *About* yang berisi profil tim pengembang.
+- **Optimasi Mobile**: Terintegrasi dengan **Adaptive Performance** untuk memastikan aplikasi berjalan dengan mulus (lancar) dan stabil saat di-*build* ke platform Android.
 
 ## Struktur Folder Penting
 
