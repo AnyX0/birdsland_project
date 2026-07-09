@@ -4,20 +4,16 @@
 Project ini adalah project Unity 6 untuk aplikasi/game 3D bertema **Bird Lands**. Struktur project menunjukkan adanya beberapa scene utama, menu awal, splash screen, serta scene kategori seperti Herbivora, Karnivora, dan Omnivora. Project ini juga menggunakan beberapa paket Unity tambahan seperti **Vuforia**, **2D Feature**, **Timeline**, **Visual Scripting**, **LeanTouch**, dan **Adaptive Performance**.
 
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="left">
-      <a href="https://github.com/AnyX0/birdsland_project/releases/latest">
-        <img src="https://img.shields.io/badge/Download-APK%20Terbaru-brightgreen?style=for-the-badge" alt="Download APK Terbaru" />
-      </a>
-    </td>
-    <td align="right">
-      <a href="https://drive.google.com/drive/folders/1stU9DpmN6C-6XVHgQEvEWIGHkEf_tAiX?usp=sharing" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Download-Image%20Target-blue?style=for-the-badge" alt="Download Image Target" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/AnyX0/birdsland_project/releases/latest">
+    <img src="https://img.shields.io/badge/Download-APK%20Terbaru-brightgreen?style=for-the-badge" alt="Download APK Terbaru" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://drive.google.com/drive/folders/1stU9DpmN6C-6XVHgQEvEWIGHkEf_tAiX?usp=sharing" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Download-Image%20Target-blue?style=for-the-badge" alt="Download Image Target" />
+  </a>
+</p>
+
 
 
 
