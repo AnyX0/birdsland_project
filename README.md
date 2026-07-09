@@ -5,14 +5,9 @@ Project ini adalah project Unity 6 untuk aplikasi/game 3D bertema **Bird Lands**
 
 
 <p align="center">
-  <a href="https://github.com/AnyX0/birdsland_project/releases/latest">
-    <img src="https://img.shields.io/badge/Download-APK%20Terbaru-brightgreen?style=for-the-badge" alt="Download APK Terbaru" />
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://drive.google.com/drive/folders/1stU9DpmN6C-6XVHgQEvEWIGHkEf_tAiX?usp=sharing" target="blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Download-Image%20Target-blue?style=for-the-badge" alt="Download Image Target" />
-  </a>
+  <a href="https://github.com/AnyX0/birdsland_project/releases/latest"><img src="https://img.shields.io/badge/Download-APK%20Terbaru-brightgreen?style=for-the-badge" alt="Download APK Terbaru" /></a>&nbsp;&nbsp;<a href="https://drive.google.com/drive/folders/1stU9DpmN6C-6XVHgQEvEWIGHkEf_tAiX?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Download-Image%20Target-blue?style=for-the-badge" alt="Download Image Target" /></a>
 </p>
+
 
 
 Atau kunjungi halaman [Releases](https://github.com/AnyX0/birdsland_project/releases) untuk versi lainnya.
